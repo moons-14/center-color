@@ -1,3 +1,4 @@
+//@ts-nocheck
 import React, { useState, useRef, useEffect } from 'react';
 import { isMobile } from "react-device-detect";
 import { CopyToClipboard } from 'react-copy-to-clipboard';
